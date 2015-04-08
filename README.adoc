@@ -1,0 +1,11 @@
+== Spring Boot University session at Devoxx France
+
+These are the sample applications used during the Spring Boot University session at Devoxx France.
+
+NOTE: The slides of the session are https://speakerdeck.com/snicoll/de-zero-a-heros-avec-spring-boot[available on speackerdeck]. The recording on parleys will be available soon.
+
+The provided applications are:
+
+* `devoxx`: main application used for most of the demos (web, jpa, rest repositories, security, actuator)
+* `command-line` and `hello-service-auto-configuration`: showcase of a custom Spring Boot auto-configuration
+* `my-webapp`: example web app that can be deployed in a Servlet 3+ container.
