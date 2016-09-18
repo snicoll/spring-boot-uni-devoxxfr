@@ -2,7 +2,7 @@
 
 These are the sample applications used during the Spring Boot University session at Devoxx France.
 
-NOTE: Check https://speakerdeck.com/snicoll/de-zero-a-heros-avec-spring-boot[the slides] and https://www.youtube.com/watch?v=P55DGb258g[the recording] of the session.
+NOTE: Check https://speakerdeck.com/snicoll/de-zero-a-heros-avec-spring-boot[the slides] and https://www.youtube.com/watch?v=P55DGb258gY[the recording] of the session.
 
 The provided applications are:
 
